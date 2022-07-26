@@ -5,7 +5,7 @@
 
 - my Pet job [Ip Filter](https://github.com/Jollu8/filteripaddress)
 - my Pet job [SkillBoxTOR](https://github.com/Jollu8/SkillBoxTOR)
-- my Algorithms [Algorthms0(https://github.com/Jollu8/Algorithms)
+- my Algorithms [Algorthms](https://github.com/Jollu8/Algorithms)
 
 - 📝 I regularly write articles on [https://leetcode.com/Jollu8/](https://leetcode.com/Jollu8/)
 
