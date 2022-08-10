@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jollu</h1>
-<h3 align="center">C++, Java developer</h3>
+<h3 align="center">C++ developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollu8&label=Profile%20views&color=0e75b6&style=flat" alt="jollu8" /> </p>
 
@@ -7,9 +7,12 @@
 - my Pet job [SkillBoxTOR](https://github.com/Jollu8/SkillBoxTOR)
 - my Algorithms [Algorthms](https://github.com/Jollu8/Algorithms)
 
+- C++ [Interview Questions[(https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) 
+
+
 - 📝 I regularly write articles on [https://leetcode.com/Jollu8/](https://leetcode.com/Jollu8/)
 
-- 💬 Ask me about **C++, Java**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **zholu008@gmail.com**
 
