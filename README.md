@@ -7,12 +7,12 @@
 - my Pet job [SkillBoxTOR](https://github.com/Jollu8/SkillBoxTOR)
 - my Algorithms [Algorthms](https://github.com/Jollu8/Algorithms)
 
-- C++ [Interview Questions[(https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) 
+- C++ [Interview Questions](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) 
 
 
 - 📝 I regularly write articles on [https://leetcode.com/Jollu8/](https://leetcode.com/Jollu8/)
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++**Questions
 
 - 📫 How to reach me **zholu008@gmail.com**
 
