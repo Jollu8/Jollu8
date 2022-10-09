@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollu8&label=Profile%20views&color=0e75b6&style=flat" alt="jollu8" /> </p>
 
-- my Pet job [Ip Filter](https://github.com/Jollu8/filteripaddress)
-- my Pet job [SkillBoxTOR](https://github.com/Jollu8/SkillBoxTOR)
+- my Pet job deleted
+- my Pet job deletated
 - my Algorithms [Algorthms](https://github.com/Jollu8/Algorithms)
 
 - C++ [Interview Questions](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) 
