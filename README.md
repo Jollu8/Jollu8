@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jollu</h1>
-<h3 align="center">C++ developer</h3>
+<h3 align="center">C++ saying  with Rust</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollu8&label=Profile%20views&color=0e75b6&style=flat" alt="jollu8" /> </p>
 
