@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollu8&label=Profile%20views&color=0e75b6&style=flat" alt="jollu8" /> </p>
 
-- my Pet job deleted
-- my Pet job deletated
-- my Algorithms [Algorthms](https://github.com/Jollu8/Algorithms)
+- my Pet [Bayan](https://github.com/Jollu8/bayan)
+- my Pet [Matrix](https://github.com/Jollu8/matrix)
+- my Pet [CMD](https://github.com/Jollu8/cmd)
+- my pet [Vector Editor](https://github.com/Jollu8/veceditor)
+- my [Algorthms](https://github.com/Jollu8/Algorithms)
 
 - C++ [Interview Questions](https://github.com/Jollu8/C-INTERVIEW-QUESTIONS) 
 
@@ -25,4 +27,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
