@@ -28,3 +28,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1920px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> </a> </p>
+
+<p align="left"> <a href="https://en.wikipedia.org/wiki/Rust_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1920px-Rust_programming_language_black_logo.svg.png" alt="rust" width="40" height="40"/> </a> </p>
