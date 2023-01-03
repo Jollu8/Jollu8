@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://leetcode.com/Jollu8/](https://leetcode.com/Jollu8/)
 
-- 💬 Ask me about **C++** Questions
+- 💬 Ask me about **Asymmetric** Questions
 
 - 📫 How to reach me **zholu008@gmail.com**
 
