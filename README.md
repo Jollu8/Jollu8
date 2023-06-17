@@ -14,6 +14,7 @@
 - If you have any questions, please telegram @LordJollu
 ---
 
+
 <details><summary><strong>Skills 🛠:</strong></summary>
 <br />
 
