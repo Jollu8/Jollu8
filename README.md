@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on my [Pacman-SFML](https://github.com/Jollu8/pacmanM)
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/Jollu8/Algorithms)
 - ✉️ Best Medium to contact me is via [mail](mailto:zholu008@gmail.com)
-- 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
+- 🙃 Hobbies : I'm keeping it a secret so someone else does`nt get carried away but me
 - ⚡ Fun fact: I like scoping out other people's ideas
 - If you have any questions, please telegram @LordJollu
 ---
