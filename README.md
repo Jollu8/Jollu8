@@ -1,11 +1,11 @@
 <p align="center">
-<img src="src/imgTop.jpeg"  alt="Hello, Jollu"/>
+<img src="src/imgTop.jpeg"  alt="Hello, Jollu" height="200" width="300"/>
 </p>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollu8&label=Profile%20views&color=0e75b6&style=flat" alt="jollu8" /> </p>
 
-# Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Jollu - LordJollu
+# Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Jollu - aka LordJollu
 
 - 🔭 I’m currently working on my [Pacman-SFML](https://github.com/Jollu8/pacmanM)
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/Jollu8/Algorithms)
