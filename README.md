@@ -1,5 +1,5 @@
 <p align="center">
-<img src="src/imgTop.jpeg"  alt="Hello, Jollu"/>
+<img src="src/imgTop.jpg"  alt="Hello, Jollu"/>
 </p>
 
 ---
