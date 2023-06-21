@@ -3,8 +3,10 @@
 <img src="src/imgA.jpg"  alt="Hello, Jollu"/>
 
 
-======
+=======
+<img src="src/imgA.jpg"  alt="Hello, Jollu" height="200" width="300"/>
 </p>
+>>>>>>> 661f18517e2970801b8395a6ae3daf815a3db8ee
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollu8&label=Profile%20views&color=0e75b6&style=flat" alt="jollu8" /> </p>
@@ -13,7 +15,6 @@
 # Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Jollu - LordJollu
 =======
 
-# Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Jollu - aka LordJollu
 
 > > > > > > > 661f18517e2970801b8395a6ae3daf815a3db8ee
 
