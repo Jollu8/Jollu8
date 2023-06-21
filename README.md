@@ -1,13 +1,23 @@
 <p align="center">
+<<<<<<< HEAD
 <img src="src/img.jpg"  alt="Hello, Jollu"/>
+
+
+=======
+<img src="src/img.jpg"  alt="Hello, Jollu" height="200" width="300"/>
 </p>
-
-
+>>>>>>> 661f18517e2970801b8395a6ae3daf815a3db8ee
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollu8&label=Profile%20views&color=0e75b6&style=flat" alt="jollu8" /> </p>
 
+<<<<<<< HEAD
 # Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Jollu - LordJollu
+=======
+
+# Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Jollu - aka LordJollu
+
+> > > > > > > 661f18517e2970801b8395a6ae3daf815a3db8ee
 
 - 🔭 I’m currently working on my [Pacman-SFML](https://github.com/Jollu8/pacmanM)
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/Jollu8/Algorithms)
@@ -15,6 +25,7 @@
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
 - ⚡ Fun fact: I like scoping out other people's ideas
 - If you have any questions, please telegram @LordJollu
+
 ---
 
 
@@ -34,11 +45,9 @@ Frameworks and tools :
 [![llvm](https://img.shields.io/badge/LLVM-%23434C5E?style=for-the-badge&logo=llvm&labelColor=%23262D3A&logoColor=white)](https://llvm.org)
 [![doxygen](src/badges/doxygen_shield.svg)](https://doxygen.nl)
 
-
 Documentation:
 
 [![markdown](https://img.shields.io/badge/markdown-%23434C5E?style=for-the-badge&logo=Markdown&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/Markdown)
-
 
 Debugging
 
@@ -46,21 +55,37 @@ Debugging
 [![lldb](https://img.shields.io/badge/LLDB-%23434C5E?style=for-the-badge&logo=llvm&labelColor=%23262D3A&logoColor=white)](https://lldb.llvm.org)
 
 Version Control
+<<<<<<< HEAD
+
+[![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)](https://git-scm.com)
+=======
 
 [![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)](https://git-scm.com)
 
+> > > > > > > 661f18517e2970801b8395a6ae3daf815a3db8ee
 
 Data Base:
 
-[![MySQL](https://img.shields.io/badge/MySQL-%23434C5E?style=for-the-badge&logo=MySQL&labelColor=%234479A1&logoColor=black)](https://www.mysql.com)
+<<<<<<< HEAD
+Data Base:
 
+[![MySQL](https://img.shields.io/badge/MySQL-%23434C5E?style=for-the-badge&logo=MySQL&labelColor=%234479A1&logoColor=black)](https://www.mysql.com)
 
 Operating System:
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
 [![MacOS](https://img.shields.io/badge/Macos-%23434C5E?style=for-the-badge&logo=apple&labelColor=white&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
 
-Terminal and Shells:
+=======
+[![MySQL](https://img.shields.io/badge/MySQL-%23434C5E?style=for-the-badge&logo=MySQL&labelColor=%234479A1&logoColor=black)](https://www.mysql.com)
+
+Operating System:
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
+[![MacOS](https://img.shields.io/badge/Macos-%23434C5E?style=for-the-badge&logo=apple&labelColor=white&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
+
+> > > > > > > 661f18517e2970801b8395a6ae3daf815a3db8ee
+> > > > > > > Terminal and Shells:
 
 [![iterm-2](https://img.shields.io/badge/iterm2-%23434C5E?style=for-the-badge&logo=iTerm2&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/ITerm2)
 [![bash](https://img.shields.io/badge/Bash-%23434C5E?style=for-the-badge&logo=GNU%20Bash&labelColor=%234EAA25&logoColor=black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
@@ -98,7 +123,8 @@ Text Editor/Ide
 
 </p>
 
-**NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub
+**NOTE** : the above data (Most Used Languages) does not indicate my skill level or something like that, it's a GitHub
+metric of which languages I have the most code on GitHub
 </details>
 
  ----
