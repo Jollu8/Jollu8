@@ -14,8 +14,6 @@
 
 
 
-> > > > > > > 661f18517e2970801b8395a6ae3daf815a3db8ee
-
 - 🔭 I’m currently working on my [Pacman-SFML](https://github.com/Jollu8/pacmanM)
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/Jollu8/Algorithms)
 - ✉️ Best Medium to contact me is via [mail](mailto:zholu008@gmail.com)
