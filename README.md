@@ -50,37 +50,21 @@ Debugging
 [![lldb](https://img.shields.io/badge/LLDB-%23434C5E?style=for-the-badge&logo=llvm&labelColor=%23262D3A&logoColor=white)](https://lldb.llvm.org)
 
 Version Control
-<<<<<<< HEAD
-
-[![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)](https://git-scm.com)
-=======
 
 [![Git](https://img.shields.io/badge/Git-%23434C5E?style=for-the-badge&logo=git&labelColor=%23F05032&logoColor=white)](https://git-scm.com)
 
-> > > > > > > 661f18517e2970801b8395a6ae3daf815a3db8ee
 
-Data Base:
-
-<<<<<<< HEAD
 Data Base:
 
 [![MySQL](https://img.shields.io/badge/MySQL-%23434C5E?style=for-the-badge&logo=MySQL&labelColor=%234479A1&logoColor=black)](https://www.mysql.com)
+
 
 Operating System:
 
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
 [![MacOS](https://img.shields.io/badge/Macos-%23434C5E?style=for-the-badge&logo=apple&labelColor=white&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
 
-=======
-[![MySQL](https://img.shields.io/badge/MySQL-%23434C5E?style=for-the-badge&logo=MySQL&labelColor=%234479A1&logoColor=black)](https://www.mysql.com)
-
-Operating System:
-
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
-[![MacOS](https://img.shields.io/badge/Macos-%23434C5E?style=for-the-badge&logo=apple&labelColor=white&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
-
-> > > > > > > 661f18517e2970801b8395a6ae3daf815a3db8ee
-> > > > > > > Terminal and Shells:
+erminal and Shells:
 
 [![iterm-2](https://img.shields.io/badge/iterm2-%23434C5E?style=for-the-badge&logo=iTerm2&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/ITerm2)
 [![bash](https://img.shields.io/badge/Bash-%23434C5E?style=for-the-badge&logo=GNU%20Bash&labelColor=%234EAA25&logoColor=black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
