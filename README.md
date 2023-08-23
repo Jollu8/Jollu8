@@ -64,7 +64,7 @@ Operating System:
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://en.wikipedia.org/wiki/Ubuntu)
 [![MacOS](https://img.shields.io/badge/Macos-%23434C5E?style=for-the-badge&logo=apple&labelColor=white&logoColor=black)](https://en.wikipedia.org/wiki/MacOS)
 
-erminal and Shells:
+Terminal and Shells:
 
 [![iterm-2](https://img.shields.io/badge/iterm2-%23434C5E?style=for-the-badge&logo=iTerm2&labelColor=black&logoColor=white)](https://en.wikipedia.org/wiki/ITerm2)
 [![bash](https://img.shields.io/badge/Bash-%23434C5E?style=for-the-badge&logo=GNU%20Bash&labelColor=%234EAA25&logoColor=black)](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
