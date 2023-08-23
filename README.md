@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on my [words table aka g_sheets](https://github.com/Jollu8/mySheets)
+- 🔭 I’m currently working on my [spreadsheet aka analog Google sheets](https://github.com/Jollu8/mySheets)
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/Jollu8/Algorithms)
 - ✉️ Best Medium to contact me is via [mail](mailto:zholu008@gmail.com)
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
