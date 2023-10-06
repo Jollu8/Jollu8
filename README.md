@@ -81,22 +81,8 @@ Text Editor/Ide
 
 <details><summary><strong>Click to see my Profile stats 📊</strong></summary>
 <br />
-
-<p align="center">
-<a href = "https://github.com/anuraghazra/github-readme-stats ">
-  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jollu8)](https://github.com/anuraghazra/github-readme-stats)" alt=""/>
-  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api/top-langs/?username=Jollu8&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true" alt=""/>
-</a>
-
-<a href = "https://github.com/ryo-ma/github-profile-trophy"></a>
-
-[//]: # (  <img height="137em" src="https://github-profile-trophy.vercel.app/?username=Jollu8&theme=nord&no-frame=true&margin-w=4&row=1"/>)
-
-[//]: # (</a>)
-
-[//]: # (<a href = "https://github.com/Ashutosh00710/github-readme-activity-graph">)
-
-[//]: # (  <img height="295em" src="https://github-readme-activity-graph.cyclic.app/graph?username=arsenic-atg&hide_border=true&theme=nord"" />)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jollu8&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 [//]: # (</a>)
 
