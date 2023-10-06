@@ -84,7 +84,7 @@ Text Editor/Ide
 
 <p align="center">
 <a href = "https://github.com/anuraghazra/github-readme-stats ">
-  <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api?username=Jollu8&show_icons=true&hide_border=true&count_private=true&theme=nord" alt=""/>
+  <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jollu8)](https://github.com/anuraghazra/github-readme-stats)" alt=""/>
   <img height="180em" src="https://grs-delta-taupe-49.vercel.app/api/top-langs/?username=Jollu8&hide=TeX,QMake&theme=nord&layout=compact&hide_border=true" alt=""/>
 </a>
 
