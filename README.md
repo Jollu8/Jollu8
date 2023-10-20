@@ -14,12 +14,12 @@
 
 
 
-- 🔭 I’m currently working on my [spreadsheet aka analog Google sheets](https://github.com/Jollu8/mySheets)
+- 🔭 I’m currently working on my [Blog](https://jollu8.github.io)
 - ✂️ I'm also almost everytime configuring [my classic Algorithms](https://github.com/Jollu8/Algorithms)
-- ✉️ Best Medium to contact me is via [mail](mailto:zholu008@gmail.com)
+- ✉️ Best Medium to contact me is via [mail](mailto:zholu8@gmail.com)
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
 - ⚡ Fun fact: I like scoping out other people's ideas
-- If you have any questions, please "telegram" @LordJollu
+- If you have any questions, please [telegram](https:t.me/LordJollu
 
 ---
 
