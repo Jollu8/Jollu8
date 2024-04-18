@@ -19,7 +19,7 @@
 - ✉️ Best Medium to contact me is via [mail](mailto:zholu8@gmail.com)
 - 🙃 Hobbies : I'm keeping it a secret so someone else does't get carried away but me
 - ⚡ Fun fact: I like scoping out other people's ideas
-- If you have any questions, please [telegram](t.me/LordJollu)
+- If you have any questions, please [telegram](te.me/LordJollu)
 
 ---
 
