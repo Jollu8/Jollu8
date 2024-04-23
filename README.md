@@ -10,7 +10,7 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jollu8&label=Profile%20views&color=0e75b6&style=flat" alt="jollu8" /> </p>
 
-# Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Jollu aka LordJollu
+# Hi there <img align="center" src="src/hello.gif" width="35"> , I'm Jollu aka LordJollu or Jollu8
 
 
 
